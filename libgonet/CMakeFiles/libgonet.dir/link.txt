@@ -1,0 +1,2 @@
+/usr/bin/ar cq liblibgonet.a  CMakeFiles/libgonet.dir/libgonet/abstract.cpp.o CMakeFiles/libgonet.dir/libgonet/error.cpp.o CMakeFiles/libgonet.dir/libgonet/network.cpp.o CMakeFiles/libgonet.dir/libgonet/tcp.cpp.o CMakeFiles/libgonet.dir/libgonet/tcp_detail.cpp.o CMakeFiles/libgonet.dir/libgonet/udp.cpp.o CMakeFiles/libgonet.dir/libgonet/udp_detail.cpp.o
+/usr/bin/ranlib liblibgonet.a

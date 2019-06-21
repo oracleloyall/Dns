@@ -1,0 +1,2 @@
+/usr/bin/ar cq liblibgo_main.a  CMakeFiles/libgo_main.dir/libgo_main.cpp.o
+/usr/bin/ranlib liblibgo_main.a
